@@ -1,0 +1,43 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+test_env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Environment variables / secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large compressed files
+*.zip
+*.rar
+*.7z
